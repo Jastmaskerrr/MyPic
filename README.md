@@ -1,1 +1,1 @@
-# MyjPic
+# MyPic
